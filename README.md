@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantbhutada/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/dishantbhutada/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/dishantbhutada/DSA/tree/master/0072-edit-distance) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dishantbhutada/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
