@@ -34,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/dishantbhutada/DSA/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/dishantbhutada/DSA/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
