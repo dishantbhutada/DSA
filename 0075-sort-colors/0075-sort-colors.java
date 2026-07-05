@@ -15,11 +15,12 @@ class Solution {
                 mid++;
             }
             else {
-                
                 nums[mid] = nums[high];
                 nums[high] = 2;
                 high--;
             }
         }
+
+         
     }
 }
