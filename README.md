@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantbhutada/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/dishantbhutada/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dishantbhutada/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/dishantbhutada/DSA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/dishantbhutada/DSA/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
