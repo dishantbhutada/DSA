@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/dishantbhutada/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/dishantbhutada/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/dishantbhutada/DSA/tree/master/0485-max-consecutive-ones) |
+| [0713-subarray-product-less-than-k](https://github.com/dishantbhutada/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/dishantbhutada/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishantbhutada/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dishantbhutada/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/dishantbhutada/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0713-subarray-product-less-than-k](https://github.com/dishantbhutada/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishantbhutada/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -68,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dishantbhutada/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/dishantbhutada/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishantbhutada/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/dishantbhutada/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/dishantbhutada/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
